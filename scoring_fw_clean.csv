@@ -1,0 +1,15 @@
+Pitch Element,Sub-Criteria,Weight (0–1),Type,Scale
+Problem,Clarity,0.12,Qualitative,0 - 5
+Problem,Relevance,0.08,Qualitative,0 - 5
+Solution,Innovation,0.1,Qualitative,0 - 5
+Solution,Feasibility,0.08,Qualitative,0 - 5
+Market,TAM/SAM/SOM,0.1,Quantitative,0 - 5
+Market,Target Customers clarity,0.06,Qualitative,0 - 5
+Competition,Competitor Analysis,0.06,Qualitative,0 - 5
+Competition,Competitor Advantage,0.05,Qualitative,0 - 5
+Product / Tech Stack,Clarity,0.05,Qualitative,0 - 5
+Business Model,Type,0.045,Qualitative,0 - 5
+GTM Strategy,Clarity,0.045,Qualitative,0 - 5
+Traction / Results,Metrics,0.05,Quantitative,0 - 5
+Team,Experience,0.09,Qualitative,0 - 5
+Financials & Investment Ask,Clarity,0.07,Qualitative,0 - 5

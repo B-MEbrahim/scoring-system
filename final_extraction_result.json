@@ -1,0 +1,119 @@
+{
+  "company_profile": {
+    "name": "EcoTech Solutions",
+    "mission_statement": ""
+  },
+  "personnel": {
+    "key_team_members": [
+      {
+        "name": "Sarah Johnson",
+        "role": "CEO",
+        "background_summary": "10 years waste management consulting, MBA Stanford"
+      },
+      {
+        "name": "Mike Chen",
+        "role": "CTO",
+        "background_summary": "former Google AI engineer, 8 years ML experience"
+      },
+      {
+        "name": "Lisa Rodriguez",
+        "role": "COO",
+        "background_summary": "operations background at FedEx logistics"
+      }
+    ]
+  },
+  "market_analysis": {
+    "industry_sector": "waste management",
+    "target_geographies": [
+      "North America",
+      "Europe"
+    ],
+    "target_customer_segments": [
+      "municipal governments",
+      "commercial property managers",
+      "residential communities"
+    ],
+    "market_metrics": [
+      {
+        "value": "$3.8 billion",
+        "context": "Opportunity size",
+        "metric_type": "Market Size"
+      },
+      {
+        "value": "15%",
+        "context": "Projected growth rate",
+        "metric_type": "Growth Rate"
+      }
+    ]
+  },
+  "product_and_technology": {
+    "core_technology_stack": [],
+    "products_and_features": [
+      {
+        "name": "IoT-enabled smart bins",
+        "description": "Smart bins with fill sensors"
+      },
+      {
+        "name": "Route optimization algorithm",
+        "description": "Reduces collection trips by 40%"
+      },
+      {
+        "name": "Mobile app",
+        "description": "95% user retention in pilot programs"
+      }
+    ]
+  },
+  "business_performance_and_traction": {
+    "pilot_program_results": [
+      {
+        "value": "35% cost reduction",
+        "context": "percentage"
+      },
+      {
+        "value": "60% improvement",
+        "context": "recycling rates"
+      }
+    ],
+    "current_financials": [
+      {
+        "value": "$75,000",
+        "context": "monthly recurring revenue"
+      },
+      {
+        "value": "$2.2M",
+        "context": "pre-orders"
+      }
+    ],
+    "sales_pipeline": [
+      {
+        "value": "95%",
+        "context": "user retention"
+      }
+    ]
+  },
+  "strategy_and_goals": {
+    "go_to_market_summary": "target markets",
+    "short_term_goals": [
+      {
+        "target": "20 pilot municipalities",
+        "timeline": "Q1 2024"
+      },
+      {
+        "target": "100 cities",
+        "timeline": "end of year"
+      }
+    ]
+  },
+  "funding_information": {
+    "funding_ask": {
+      "amount": "null",
+      "round": "null"
+    }
+  },
+  "mentioned_organizations": [
+    {
+      "name": "FedEx",
+      "context": "Logistics background"
+    }
+  ]
+}

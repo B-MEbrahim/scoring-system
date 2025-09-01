@@ -1,0 +1,31 @@
+{
+  "top_matches": [
+    {
+      "investor_id": "INV001",
+      "investor_name": "ClimateCity Ventures",
+      "match_score": 0.87,
+      "matching_weighted_score": 0.174,
+      "reason": /* */ "Strong industry tag overlap, stage fits Series A, geography compatible, ticket range covers $2M ask, semantic similarity 0.91",
+      "contact_email": "contact@climatecity.vc"
+    },
+    {
+      "investor_id": "INV002",
+      "investor_name": "UrbanImpact Capital",
+      "match_score": 0.73,
+      "matching_weighted_score": 0.146,
+      "reason": "Geography aligned (Europe), stage aligned; slightly higher ticket expectations but still plausible with $5M request",
+      "contact_email": "hello@urbanimpact.vc"
+    },
+    {
+      "investor_id": "INV003",
+      "investor_name": "GreenCity Fund",
+      "match_score": 0.68,
+      "matching_weighted_score": 0.136,
+      "reason": "Stage Series A fits; geography partial overlap; strong ESG focus",
+      "contact_email": "info@greencity.vc"
+    }
+  ],
+  "matching_method": "filters(stage, ticket, geography) + embeddings_similarity(weighted) -> normalized score"
+}
+
+

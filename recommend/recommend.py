@@ -1,11 +1,11 @@
 from langchain_chroma import Chroma
-from langchain.embeddings import HuggingFaceBgeEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 import sqlalchemy as sa
 import json
 from typing import Dict, Any, Tuple, List
 
 
-embed_model = HuggingFaceBgeEmbeddings(model_name="BAAI/bge-small-en")
+embed_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
 
 # persistent chroma DB
 db = Chroma(
